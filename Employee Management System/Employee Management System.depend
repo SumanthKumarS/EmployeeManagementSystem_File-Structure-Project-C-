@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628226029 source:f:\6thsem\file structures\filestructure lab\employee management system\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<iomanip>
+	<ctype.h>
+	<fstream>
+
